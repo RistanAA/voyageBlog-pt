@@ -1,9 +1,9 @@
 {
   "development": {
-    "username": "root",
-    "password": null,
+    "username": "admin",
+    "password": "admin123",
     "database": "voyage_blog_development",
-    "host": "127.0.0.1",
+    "host": "express-database.ceqqwrqhipur.ap-southeast-1.rds.amazonaws.com",
     "dialect": "mysql"
   },
   "test": {
